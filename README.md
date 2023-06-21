@@ -41,10 +41,12 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Working Images
 
-![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/f681b32d-94b1-4a0b-95a2-db20c4cdc4bb)
+![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/bfa30523-eaaf-4a7b-bd43-cdd884777ebb)
 
-![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/cafd50c2-9cc2-4f21-9c61-f371dc916f2c)
+![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/146110e6-1e96-49fc-8457-1779d41fdc1a)
 
-![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/154ca96c-5eb4-44b6-8768-9d8fcb0f03f0)
+![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/926ded7e-7dff-4336-8d52-717bc3dc0e3d)
+
+![image](https://github.com/Deepanshu0703/Incubyte/assets/114489502/e1b85a8a-3888-4a20-a88d-c958944b30bc)
 
 
